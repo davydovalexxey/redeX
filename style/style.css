@@ -43,7 +43,7 @@ h2 {
 .block-1 {
 	width: inherit;
 	height: 662px;
-	background: url(images/bg-block-1.jpg) no-repeat;
+	background: url(/images/bg-block-1.jpg) no-repeat;
 	background-attachment: fixed;
 }
 
