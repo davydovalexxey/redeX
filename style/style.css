@@ -9,7 +9,7 @@ body {
 
 @font-face {
 	font-family: Roboto;
-	src: url(/001_redex/fonts/Roboto-Regular.ttf);
+	src: url(fonts/Roboto-Regular.ttf);
 	font-weight: normal;
 }
 
@@ -43,7 +43,7 @@ h2 {
 .block-1 {
 	width: inherit;
 	height: 662px;
-	background: url(/001_redex/images/bg-block-1.jpg) no-repeat;
+	background: url(images/bg-block-1.jpg) no-repeat;
 	background-attachment: fixed;
 }
 
@@ -118,7 +118,7 @@ h2 {
 }
 
 .img-bl-2 {
-	background: url(/001_redex/images/img-block-2.png);
+	background: url(images/img-block-2.png);
 	width: 522px;
 	height: 370px;
 	float: left;
@@ -137,7 +137,7 @@ h2 {
 }
 
 .block-2::after {
-	content: url(/001_redex/images/img-block-2-bottom.png);
+	content: url(images/img-block-2-bottom.png);
 	clear: both;
 	display: block;
 	text-align: center;
@@ -158,7 +158,7 @@ h2 {
 }
 
 .img-bl-3 {
-	background: url(/001_redex/images/img-block-3.jpg);
+	background: url(images/img-block-3.jpg);
 	width: 346px;
 	height: 242px;
 	float: left;
@@ -181,7 +181,7 @@ h2 {
 }
 
 .img2-bl-3 {
-	background: url(/001_redex/images/img2-block-3.jpg);
+	background: url(images/img2-block-3.jpg);
 	width: 113px;
 	height: 155px;
 	float: right;
@@ -221,7 +221,7 @@ h2 {
 
 .block-4 {
 	width: inherit;
-	background: url(/001_redex/images/bg-block-4.jpg);
+	background: url(images/bg-block-4.jpg);
 	background-attachment: fixed;
 }
 
@@ -231,7 +231,7 @@ h2 {
 }
 
 .img-bl-4 {
-	background: url(/001_redex/images/img-block-4.png);
+	background: url(images/img-block-4.png);
 	width: 347px;
 	height: 465px;
 	margin-left: -80px;
@@ -344,7 +344,7 @@ table tr td:nth-child(3),table tr td:nth-child(7), table tr td:nth-child(11) {
 /* block-6 */
 
 .block-6 {
-	background: url(/001_redex/images/bg-block-6.jpg);
+	background: url(images/bg-block-6.jpg);
 	width: inherit;
 	height: auto;
 }
@@ -385,7 +385,7 @@ with-vid-bl-6::after {
 }
 
 .img-bl-6 {
-	background: url(/001_redex/images/img-block-6.jpg);
+	background: url(images/img-block-6.jpg);
 	width: 450px;
 	height: 220px;
 	float: left;
@@ -459,7 +459,7 @@ with-vid-bl-6::after {
 	margin: 0 auto;
 	width: 540px;
 	height: 318px;
-	background: url(/001_redex/images/img-block-7.png) no-repeat;
+	background: url(images/img-block-7.png) no-repeat;
 	padding-bottom: 30px;
 }
 
@@ -469,7 +469,7 @@ with-vid-bl-6::after {
 }
 
 .imgafter-bl-7 {
-	background: url(/001_redex/images/img-block-2-bottom.png) no-repeat;
+	background: url(images/img-block-2-bottom.png) no-repeat;
 	width: 820px;
 	height: 36px;
 	margin: 0 auto;
@@ -482,7 +482,7 @@ with-vid-bl-6::after {
 }
 
 .block-8::after {
-	content: url(/001_redex/images/img-block-2-bottom.png);
+	content: url(images/img-block-2-bottom.png);
 	display: block;
 	clear: both;
 	text-align: center;
@@ -504,7 +504,7 @@ with-vid-bl-6::after {
 .img-bl-8 {
 	width: 585px;
 	height: 549px;
-	background: url(/001_redex/images/img-block-8.jpg);
+	background: url(images/img-block-8.jpg);
 	float: right;
 }
 
@@ -527,7 +527,7 @@ with-vid-bl-6::after {
 .img-bl-9 {
 	width: 972px;
 	height: 318px;
-	background: url(/001_redex/images/img-block-9.jpg) no-repeat;
+	background: url(images/img-block-9.jpg) no-repeat;
 }
 
 .block-9 p {
@@ -546,7 +546,7 @@ with-vid-bl-6::after {
 .img2-bl-9 {
 	width: 977px;
 	height: 173px;
-	background: url(/001_redex/images/img2-block-9.jpg);
+	background: url(images/img2-block-9.jpg);
 	margin-bottom: 20px; 
 }
 
@@ -581,7 +581,7 @@ with-vid-bl-6::after {
 /* block-10 */
 
 .block-10 {
-	background: url(/001_redex/images/bg-block-10.jpg) no-repeat;
+	background: url(images/bg-block-10.jpg) no-repeat;
 	width: inherit;
 	background-attachment: fixed;
 	background-size: cover;
@@ -672,20 +672,3 @@ with-vid-bl-6::after {
 	background: #e9542c;
 	border: 3px solid #e9542c;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
